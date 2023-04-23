@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Milosz/source/C#/MonogameTerrain/MonogameTerrain/Content/effects.fx</SourceFile>
+  <SourceTime>2020-09-03T03:18:35.4030453+02:00</SourceTime>
+  <DestFile>C:/Users/Milosz/source/C#/MonogameTerrain/MonogameTerrain/Content/bin/DesktopGL/Content/effects.xnb</DestFile>
+  <DestTime>2023-02-13T20:18:42.1312638+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
